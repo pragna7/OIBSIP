@@ -1,2 +1,4 @@
 # OIBSIP
-I am happy that i have successfully completed deploying tasks of my python programming internship which was organized by Oasis Infobyte
+I'm thrilled to announce that I've successfully completed my Python programming internship's deployment tasks, organized by Oasis Infobyte, with great satisfaction and accomplishment.
+
+
