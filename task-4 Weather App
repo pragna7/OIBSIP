@@ -1,4 +1,5 @@
 # Weather App
+#imorting requests
 import requests 
 val=input("Enter City name:    ")
 url='https://wttr.in/{}'.format(val)
