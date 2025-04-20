@@ -1,4 +1,4 @@
-# Weather App
+
 #imorting requests
 import requests 
 val=input("Enter City name:    ")
